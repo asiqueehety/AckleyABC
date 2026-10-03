@@ -1,4 +1,4 @@
-# CSE 4112 ML Lab — Artificial Bee Colony on the 2D Ackley Function
+# CSE 4111 ML — Artificial Bee Colony on the 2D Ackley Function
 
 Find the global minimum of the 2D Ackley function using an Artificial Bee Colony (ABC) Algorithm.
 
